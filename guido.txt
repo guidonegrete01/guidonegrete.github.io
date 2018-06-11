@@ -1,0 +1,23 @@
+which git
+git config --global user.guidonegrete01
+git config --global user.negrete_bravo@hotmail.com
+cd mooc
+ls -la
+cd guidonegrete.github.io
+ls
+ls -la
+cd
+cat .git
+cd mooc
+cd guidonegrete.github.ios
+ls -la
+cd guidonegrete.github.io
+ls -la
+cat git
+ls -la
+cd .git
+ls -la
+cat config
+cd
+ssh-keygen -t rsa -C negrete_bravo@hotmail.com
+history -w guido.txt
